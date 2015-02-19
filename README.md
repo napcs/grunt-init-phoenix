@@ -1,6 +1,6 @@
 # Phoneix Grunt-init template
 
-Sets up support for an asset pipeline for [Phoenix]{http://phoenixframework.org/} projects using Grunt. Supports
+Sets up support for an asset pipeline for [Phoenix](http://phoenixframework.org/) projects using Grunt. Supports
 minification of CSS and JavaScript with support for Sass and CoffeeScript.
 
 Creates the `Gruntfile.js` file, a `package.json` file, and configures 
